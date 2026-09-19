@@ -22,20 +22,11 @@ The dataset used in this project is the **Retail Store Inventory and Demand Fore
 
 ## Methodology
 
-### Data Cleaning and Preprocessing
+This project used an exploratory data analysis approach to understand patterns and relationships within the retail dataset.
 
-The dataset was reviewed and prepared before analysis to ensure that the information was suitable for visualization and aggregation.
-
-The main steps included:
-
-- Checking for missing values
-- Checking for duplicate records
-- Reviewing data types
-- Standardizing categorical fields
-- Checking numerical values for consistency
-- Reviewing date-related fields
-- Validating demand, inventory, units ordered, and units sold data
-
+Dataset Familiarization – Reviewed the dataset to understand its variables, categories, and the information available for analysis.
+Data Analysis – Analyzed demand, inventory, product categories, promotion status, time periods, and competitor pricing to identify relevant patterns and relationships.
+Dashboard Development – Created the necessary measures and visualizations in Power BI, including KPI cards, charts, and slicers.
 
 ## Key Analysis & Visualization
 
