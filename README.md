@@ -10,7 +10,7 @@ The goal is to identify demand and inventory gaps and provide data-driven recomm
 
 ## Problem Statement
 
-The retail business needs better visibility into changes in customer demand and inventory levels across product categories, time periods, promotions, and competitor pricing. This analysis aims to identify the key demand patterns and inventory gaps so the business can better align inventory and replenishment decisions with customer demand.
+Retail businesses face challenges in maintaining the right inventory levels as customer demand varies across products, seasons, promotions, and market conditions. This analysis aims to identify demand patterns and inventory gaps to help businesses better align inventory levels with actual demand and reduce the risk of overstocking and understocking.
 
 
 ## Dataset Overview
