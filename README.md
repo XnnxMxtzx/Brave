@@ -25,17 +25,17 @@ The dataset used in this project is the **Retail Store Inventory and Demand Fore
 
 This project used an **exploratory data analysis approach** to understand patterns and relationships within the retail dataset.
 
-### 1. Dataset Familiarization
+### Dataset Familiarization
 
 Reviewed the dataset to understand its variables, categories, and the information available for analysis.
 
-### 2. Data Analysis
+### Data Analysis
 
 Analyzed demand, inventory, product categories, promotion status, time periods, and competitor pricing to identify relevant patterns and relationships.
 
-### 3. Dashboard Development
+### Dashboard Development
 
-Created the necessary measures and visualizations in **Power BI**, including KPI cards, charts, and slicers.
+Created the necessary measures and visualizations in Power BI, including KPI cards, charts, and slicers.
 
 
 ## Key Analysis & Visualization
