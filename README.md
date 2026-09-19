@@ -1,26 +1,24 @@
 # Retail Demand & Inventory Analysis
 
+![Retail Demand & Inventory Analysis Dashboard](1bv.png)
 ## Project Summary
 
 This project analyzes retail demand and inventory patterns to understand how product categories, promotions, competitor pricing, and seasonal demand affect retail performance.
 
 The goal is to identify demand and inventory gaps and provide data-driven recommendations that can help improve inventory planning, replenishment decisions, and demand management.
 
-## Dashboard
-
-![Retail Demand & Inventory Analysis Dashboard](1bv.png)
-
-The dashboard provides an overview of key retail performance indicators, including total units sold, total demand, average demand, and average inventory. It also allows the analysis to be viewed across category, region, seasonality, and promotion status.
 
 ## Problem Statement
 
 The retail business needs better visibility into changes in customer demand and inventory levels across product categories, time periods, promotions, and competitor pricing. This analysis aims to identify the key demand patterns and inventory gaps so the business can better align inventory and replenishment decisions with customer demand.
+
 
 ## Dataset Overview
 
 The dataset used in this project is the **Retail Store Inventory and Demand Forecasting** dataset sourced from Kaggle. The dataset contains retail inventory and demand-related information that can be used to analyze product demand, inventory levels, sales activity, ordering patterns, promotions, competitor pricing, and time-based trends.
 
 [Retail Store Inventory and Demand Forecasting - Kaggle](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting)
+
 
 ## Methodology
 
