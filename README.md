@@ -7,7 +7,7 @@ This project analyzes retail demand and inventory patterns to understand how pro
 
 The goal is to identify demand and inventory gaps and provide data-driven recommendations that can help improve inventory planning, replenishment decisions, and demand management.
 
-
+<br>
 ## Problem Statement
 
 The retail business needs better visibility into changes in customer demand and inventory levels across product categories, time periods, promotions, and competitor pricing. This analysis aims to identify the key demand patterns and inventory gaps so the business can better align inventory and replenishment decisions with customer demand.
