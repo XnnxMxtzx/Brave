@@ -15,7 +15,7 @@ Retail businesses face challenges in maintaining the right inventory levels as c
 
 ## Dataset Overview
 
-The dataset used in this project is the **Retail Store Inventory and Demand Forecasting** dataset sourced from Kaggle. The dataset contains retail inventory and demand-related information that can be used to analyze product demand, inventory levels, sales activity, ordering patterns, promotions, competitor pricing, and time-based trends.
+The dataset used in this project is the Retail Store Inventory and Demand Forecasting dataset sourced from Kaggle. The dataset contains retail inventory and demand-related information that can be used to analyze product demand, inventory levels, sales activity, ordering patterns, promotions, competitor pricing, and time-based trends.
 
 [Retail Store Inventory and Demand Forecasting - Kaggle](https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting)
 
@@ -23,7 +23,7 @@ The dataset used in this project is the **Retail Store Inventory and Demand Fore
 ## Methodology
 
 
-This project used an **exploratory data analysis approach** to understand patterns and relationships within the retail dataset.
+This project used an exploratory data analysis approach to understand patterns and relationships within the retail dataset.
 
 ### Dataset Familiarization
 
